@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\binary-studio\Lecture2\Zoo\ZooLibrary\bin\Debug\ZooLibrary.dll
+C:\Users\Administrator\Desktop\binary-studio\Lecture2\Zoo\ZooLibrary\bin\Debug\ZooLibrary.pdb
+C:\Users\Administrator\Desktop\binary-studio\Lecture2\Zoo\ZooLibrary\obj\Debug\ZooLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\binary-studio\Lecture2\Zoo\ZooLibrary\obj\Debug\ZooLibrary.dll
+C:\Users\Administrator\Desktop\binary-studio\Lecture2\Zoo\ZooLibrary\obj\Debug\ZooLibrary.pdb
